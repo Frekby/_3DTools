@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_3dmodel/1.0.0": {
+        "dependencies": {
+          "ParametricSurface": "1.0.0",
+          "RorateSurface": "1.0.0",
+          "SimpleSurface": "1.0.0",
+          "Utility": "1.0.0",
+          "_3DTools": "1.0.0"
+        },
+        "runtime": {
+          "_3dmodel.dll": {}
+        }
+      },
+      "ParametricSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "ParametricSurface.dll": {}
+        }
+      },
+      "RorateSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "RorateSurface.dll": {}
+        }
+      },
+      "SimpleSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "SimpleSurface.dll": {}
+        }
+      },
+      "Utility/1.0.0": {
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "runtime": {
+          "Utility.dll": {}
+        }
+      },
+      "_3DTools/1.0.0": {
+        "runtime": {
+          "_3DTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_3dmodel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParametricSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RorateSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_3DTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

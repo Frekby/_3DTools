@@ -1,0 +1,219 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "ParametricSurface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ParametricSurface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParametricSurface.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "PlaneSurface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlaneSurface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlaneSurface.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "RorateSurface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RorateSurface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RorateSurface.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "SimpleSurface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimpleSurface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleSurface.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "_3DTools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/_3DTools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_3DTools.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ParametricSurface/1.0.0": {
+      "type": "project",
+      "path": "../ParametricSurface/ParametricSurface.csproj",
+      "msbuildProject": "../ParametricSurface/ParametricSurface.csproj"
+    },
+    "PlaneSurface/1.0.0": {
+      "type": "project",
+      "path": "../PlaneSurface/PlaneSurface.csproj",
+      "msbuildProject": "../PlaneSurface/PlaneSurface.csproj"
+    },
+    "RorateSurface/1.0.0": {
+      "type": "project",
+      "path": "../RorateSurface/RorateSurface.csproj",
+      "msbuildProject": "../RorateSurface/RorateSurface.csproj"
+    },
+    "SimpleSurface/1.0.0": {
+      "type": "project",
+      "path": "../SimpleSurface/SimpleSurface.csproj",
+      "msbuildProject": "../SimpleSurface/SimpleSurface.csproj"
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utility/Utility.csproj",
+      "msbuildProject": "../Utility/Utility.csproj"
+    },
+    "_3DTools/1.0.0": {
+      "type": "project",
+      "path": "../_3DTools/_3DTools.csproj",
+      "msbuildProject": "../_3DTools/_3DTools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "ParametricSurface >= 1.0.0",
+      "PlaneSurface >= 1.0.0",
+      "RorateSurface >= 1.0.0",
+      "SimpleSurface >= 1.0.0",
+      "Utility >= 1.0.0",
+      "_3DTools >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PSPEC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\3DTools\\_3DTools\\_3dWPFlib\\_3dWPFlib.csproj",
+      "projectName": "_3dWPFlib",
+      "projectPath": "D:\\C#\\3DTools\\_3DTools\\_3dWPFlib\\_3dWPFlib.csproj",
+      "packagesPath": "C:\\Users\\PSPEC\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\3DTools\\_3DTools\\_3dWPFlib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PSPEC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\C#\\3DTools\\_3DTools\\ParametricSurface\\ParametricSurface.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\ParametricSurface\\ParametricSurface.csproj"
+            },
+            "D:\\C#\\3DTools\\_3DTools\\PlaneSurface\\PlaneSurface.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\PlaneSurface\\PlaneSurface.csproj"
+            },
+            "D:\\C#\\3DTools\\_3DTools\\RorateSurface\\RorateSurface.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\RorateSurface\\RorateSurface.csproj"
+            },
+            "D:\\C#\\3DTools\\_3DTools\\SimpleSurface\\SimpleSurface.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\SimpleSurface\\SimpleSurface.csproj"
+            },
+            "D:\\C#\\3DTools\\_3DTools\\Utility\\Utility.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\Utility\\Utility.csproj"
+            },
+            "D:\\C#\\3DTools\\_3DTools\\_3DTools\\_3DTools.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\_3DTools\\_3DTools.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "_3DTools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/_3DTools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_3DTools.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utility/Utility.csproj",
+      "msbuildProject": "../Utility/Utility.csproj"
+    },
+    "_3DTools/1.0.0": {
+      "type": "project",
+      "path": "../_3DTools/_3DTools.csproj",
+      "msbuildProject": "../_3DTools/_3DTools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PSPEC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\3DTools\\_3DTools\\SimpleSurface\\SimpleSurface.csproj",
+      "projectName": "SimpleSurface",
+      "projectPath": "D:\\C#\\3DTools\\_3DTools\\SimpleSurface\\SimpleSurface.csproj",
+      "packagesPath": "C:\\Users\\PSPEC\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\3DTools\\_3DTools\\SimpleSurface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PSPEC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\C#\\3DTools\\_3DTools\\Utility\\Utility.csproj": {
+              "projectPath": "D:\\C#\\3DTools\\_3DTools\\Utility\\Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

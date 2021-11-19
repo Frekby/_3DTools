@@ -1,0 +1,14 @@
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\Utility.deps.json
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\Utility.dll
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\ref\Utility.dll
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\Utility.pdb
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\_3DTools.dll
+D:\C#\3DTools\_3DTools\Utility\bin\Debug\net5.0-windows\_3DTools.pdb
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.csproj.AssemblyReference.cache
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.AssemblyInfoInputs.cache
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.AssemblyInfo.cs
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.csproj.CoreCompileInputs.cache
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.dll
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\ref\Utility.dll
+D:\C#\3DTools\_3DTools\Utility\obj\Debug\net5.0-windows\Utility.pdb

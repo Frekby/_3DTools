@@ -1,0 +1,119 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Main_winform/1.0.0": {
+        "dependencies": {
+          "_3dWPFlib": "1.0.0"
+        },
+        "runtime": {
+          "Main_winform.dll": {}
+        }
+      },
+      "ParametricSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "ParametricSurface.dll": {}
+        }
+      },
+      "PlaneSurface/1.0.0": {
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "runtime": {
+          "PlaneSurface.dll": {}
+        }
+      },
+      "RorateSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "RorateSurface.dll": {}
+        }
+      },
+      "SimpleSurface/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "SimpleSurface.dll": {}
+        }
+      },
+      "Utility/1.0.0": {
+        "dependencies": {
+          "_3DTools": "1.0.0"
+        },
+        "runtime": {
+          "Utility.dll": {}
+        }
+      },
+      "_3DTools/1.0.0": {
+        "runtime": {
+          "_3DTools.dll": {}
+        }
+      },
+      "_3dWPFlib/1.0.0": {
+        "dependencies": {
+          "ParametricSurface": "1.0.0",
+          "PlaneSurface": "1.0.0",
+          "RorateSurface": "1.0.0",
+          "SimpleSurface": "1.0.0",
+          "Utility": "1.0.0",
+          "_3DTools": "1.0.0"
+        },
+        "runtime": {
+          "_3dWPFlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main_winform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParametricSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlaneSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RorateSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleSurface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_3DTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_3dWPFlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

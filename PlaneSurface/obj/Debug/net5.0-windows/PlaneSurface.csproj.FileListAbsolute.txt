@@ -1,0 +1,14 @@
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\PlaneSurface.deps.json
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\PlaneSurface.dll
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\ref\PlaneSurface.dll
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\PlaneSurface.pdb
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\_3DTools.dll
+D:\C#\3DTools\_3DTools\PlaneSurface\bin\Debug\net5.0-windows\_3DTools.pdb
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.csproj.AssemblyReference.cache
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.AssemblyInfoInputs.cache
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.AssemblyInfo.cs
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.csproj.CoreCompileInputs.cache
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.dll
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\ref\PlaneSurface.dll
+D:\C#\3DTools\_3DTools\PlaneSurface\obj\Debug\net5.0-windows\PlaneSurface.pdb

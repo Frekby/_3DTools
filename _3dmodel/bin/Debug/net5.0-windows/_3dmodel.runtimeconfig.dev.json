@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PSPEC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PSPEC\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\ParametricSurface.deps.json
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\ParametricSurface.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\ref\ParametricSurface.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\ParametricSurface.pdb
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\Utility.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\_3DTools.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\Utility.pdb
+D:\C#\3DTools\_3DTools\ParametricSurface\bin\Debug\net5.0-windows\_3DTools.pdb
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.csproj.AssemblyReference.cache
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.AssemblyInfoInputs.cache
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.AssemblyInfo.cs
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.csproj.CoreCompileInputs.cache
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.csproj.CopyComplete
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ref\ParametricSurface.dll
+D:\C#\3DTools\_3DTools\ParametricSurface\obj\Debug\net5.0-windows\ParametricSurface.pdb

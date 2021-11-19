@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\_3dWPFlib\_3dWPFlib.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="WindowsFormsIntegration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+        <HintPath>..\..\..\WindowsFormsIntegration.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\SimpleSurface.deps.json
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\SimpleSurface.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\ref\SimpleSurface.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\SimpleSurface.pdb
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\Utility.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\_3DTools.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\Utility.pdb
+D:\C#\3DTools\_3DTools\SimpleSurface\bin\Debug\net5.0-windows\_3DTools.pdb
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.AssemblyInfoInputs.cache
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.AssemblyInfo.cs
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.csproj.CoreCompileInputs.cache
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.csproj.CopyComplete
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\ref\SimpleSurface.dll
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.pdb
+D:\C#\3DTools\_3DTools\SimpleSurface\obj\Debug\net5.0-windows\SimpleSurface.csproj.AssemblyReference.cache

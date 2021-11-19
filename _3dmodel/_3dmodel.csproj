@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ParametricSurface\ParametricSurface.csproj" />
+      <ProjectReference Include="..\RorateSurface\RorateSurface.csproj" />
+      <ProjectReference Include="..\SimpleSurface\SimpleSurface.csproj" />
+      <ProjectReference Include="..\Utility\Utility.csproj" />
+      <ProjectReference Include="..\_3DTools\_3DTools.csproj" />
+    </ItemGroup>
+
+</Project>
